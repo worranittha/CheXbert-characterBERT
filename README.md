@@ -1,9 +1,9 @@
 # CheXbert-characterBERT
 
 ## Installation
-Create conda environment and install packages
+Create conda environment
 ```
-conda create --name <env> --file requirements.txt
+conda env create -f environment.yml
 ```
 
 ## Download
