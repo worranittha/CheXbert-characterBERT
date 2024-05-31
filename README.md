@@ -1,6 +1,6 @@
 # CheXbert-characterBERT
 
-The application of Transformer models, specifically CheXbert and CharacterBERT, in extracting labels from radiology reports in a real-world clinical setting of a Thai hospital.
+The application of Transformer models, specifically [CheXbert](https://github.com/stanfordmlgroup/CheXbert) and [CharacterBERT](https://github.com/helboukkouri/character-bert), in extracting labels from radiology reports in a real-world clinical setting of a Thai hospital.
 
 - [Installation](#installation)
 - [Download](#download)
